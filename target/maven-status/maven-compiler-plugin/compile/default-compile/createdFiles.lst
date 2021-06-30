@@ -1,8 +1,0 @@
-io\github\penghaojie\btool\processor\CodeGenerator.class
-io\github\penghaojie\btool\service\BuildingInfoService.class
-io\github\penghaojie\btool\util\BToolUtils.class
-io\github\penghaojie\btool\model\BuildingInfo.class
-io\github\penghaojie\btool\exception\BToolException.class
-io\github\penghaojie\btool\annotation\GenerateBuildingInfoController.class
-io\github\penghaojie\btool\processor\GenerateBuildingInfoProcessor.class
-io\github\penghaojie\btool\annotation\GenerateBuildingInfoService.class
